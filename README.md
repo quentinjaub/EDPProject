@@ -14,4 +14,5 @@ Pour afficher l'évolution du nombre d'éléments non nuls de A (+Spy) -> nonzer
 
 
 ----------Cas parabolique-----------------------------------
-_Lancer le fichier de tests : parabolic.m
+
+Lancer le fichier de tests : parabolic.m
