@@ -1,0 +1,19 @@
+Cette archive contient les sources de l'exemple d'EDP parabolique, a traiter 
+dans le cadre des seances de TP-Projet d'Equations aux Derivees Partielles.
+
+ENSEEIHT-IMA, 2A Modelisation et Simulation Numerique
+Annee universitaire 2015-2016
+
+********************************************************************************
+Contenu de l'archive :
+
+show.m : fonction de visualisation de la solution, identique a celle de la 
+	partie A
+
+*B.dat : fichiers de donnees representant le maillage a traiter dans la partie B
+	(pas de quadrangles mais des conditions de Neumann)
+
+u_dB.m : Valeur de la solution sur la frontiere de Dirichlet (attention, ce n'est
+	pas la fonction identiquement nulle)
+
+u0B.m  : Valeur de la solution au temps initial t=0.

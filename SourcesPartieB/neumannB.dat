@@ -1,0 +1,40 @@
+% Chaque ligne represente une arete de la
+% frontiere de Neumann sous la forme :
+% #Sommet arete 1  /  #Sommet arete 2    
+%
+% Le resultat est une matrice 32 * 1, qui
+% s'importe sous MATLAB avec la commande
+%	load('neumannB.dat')
+%
+5	 252
+252	 74
+74	 253
+253	 24
+24	 260
+260	 76
+76	 258
+258	 6
+6	 548
+548	 150
+150	 549
+549	 44
+44	 556
+556	 152
+152	 554
+554	 7
+1	 278
+278	 81
+81	 280
+280	 26
+26	 288
+288	 84
+84	 286
+286	 2
+2	 166
+166	 49
+49	 168
+168	 16
+16	 176
+176	 52
+52	 174
+174	 3
